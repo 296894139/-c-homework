@@ -1,0 +1,22 @@
+﻿Build started 2017/10/31 10:55:59.
+     1>Project "C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Q71\Q71.vcxproj" on node 7 (Rebuild target(s)).
+     1>ClCompile:
+         F:\visual studio 2013\VC\bin\CL.exe /c /ZI /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         cl /c /ZI /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         
+         Source.cpp
+       Link:
+         F:\visual studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.lib" /MACHINE:X86 Debug\Source.obj
+         Microsoft (R) Incremental Linker Version 12.00.31101.0
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         "/OUT:C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.lib" /MACHINE:X86 Debug\Source.obj 
+         Q71.vcxproj -> C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Debug\Q71.exe
+     1>Done Building Project "C:\Users\T5\Documents\Visual Studio 2013\Projects\project1\Q71\Q71.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.38
